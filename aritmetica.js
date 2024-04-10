@@ -1,3 +1,4 @@
+//Autora Núria Marzo
 //EJERCICIO 1 
 
 const numeroDeSaludos = 3;
